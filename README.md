@@ -7,17 +7,17 @@ _Os exercícios a seguir devem ser resolvidos em linguagem natural, utilizando e
 - apertei o interropitor
 - a lampada não acendeu
 - peguei uma escada para tirar a lampada queimada
-  descir da escada peguei uma lampada nova 
-  subir  a escada nomamente e troquei a lampada
+- descir da escada peguei uma lampada nova 
+- subir  a escada nomamente e troquei a lampada
 
 
 2. Faça um algoritmo que mostre o passo a passo de uma lavar pratos.
-pega uma esponja
-coloca um pouco de detergente
-abre a torneira molha a esponja e fecha 
-pega o prato para passar a esponja com detergente
-depois abre a torneira para enxaguar o prato 
-fecha a torneira  e coloca o prato no escorredor
+- pega uma esponja
+- coloca um pouco de detergente
+- abre a torneira molha a esponja e fecha 
+- pega o prato para passar a esponja com detergente
+- depois abre a torneira para enxaguar o prato 
+- fecha a torneira  e coloca o prato no escorredor
 
 3. Faça um algoritmo que mostre o passo a passo de uma troca de um pneu furado.
 
