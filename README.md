@@ -4,6 +4,13 @@ _Os exercícios a seguir devem ser resolvidos em linguagem natural, utilizando e
 
 1. Faça um algoritmo que mostre o passo a passo de uma troca de lâmpada queimada.
 
+- apertei o interropitor
+- a lampada não acendeu
+- peguei uma escada para tirar a lampada queimada
+  descir da escada peguei uma lampada nova 
+  subir  a escada nomamente e troquei a lampada
+
+
 2. Faça um algoritmo que mostre o passo a passo de uma lavar pratos.
 
 3. Faça um algoritmo que mostre o passo a passo de uma troca de um pneu furado.
