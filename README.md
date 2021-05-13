@@ -63,6 +63,14 @@ o professor chega na escola.
 - 
 
 6. Faça um algoritmo que represente a brincadeira "Morto! Vivo!".
+- um grupo de crianças forma um círculo. 
+-com ajuda de um adulto ou uma própria criança.
+ - dará dois comandos ou "VIVO" ou "MORTO".
+ - quando disser "VIVO" as crianças devem ficar de pé.  
+ - -quando disser "MORTO" as crianças devem ficar agachadas 
+ - esses comandos vão se repetindo
+ -quem errar o comando, vai saindo da brincadeira.
+ -quem ficar sem errar nenhum comando será o vencedor da brincadeira.
 
 7. Faça um algoritmo que some três números.
 
