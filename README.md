@@ -20,6 +20,26 @@ _Os exercícios a seguir devem ser resolvidos em linguagem natural, utilizando e
 - fecha a torneira  e coloca o prato no escorredor
 
 3. Faça um algoritmo que mostre o passo a passo de uma troca de um pneu furado.
+-pegar chave de roda no porta malas do veiculo
+- Pego o macacaco 
+-  o estepe
+-com a chave afrouxe os parafusos da roda.
+-Posicione o macaco embaixo do carro. 
+- para levantar o carro rode a chave de roda no sentido anti-horário  . 
+- Coloque o estepe embaixo do carro para ele servir de apoio.
+- depois que folgar  os parafusos e r-pegar chave de roda no porta malas do veiculo
+- Pego o macacaco 
+-  o estepe
+-com a chave afrouxe os parafusos da roda.
+-Posicione o macaco embaixo do carro. 
+- para levantar o carro rode a chave de roda no sentido anti-horário  . 
+- Coloque o estepe embaixo do carro para ele servir de apoio.
+-retire o pneu novo do estepe e encaixe-o no carro. 
+-certificar que estar tudo ok.
+- guardar as ferramentas.
+- terminou.
+
+
 
 4. Faça um algoritmo que mostre o passo a passo de um débito num caixa eletrônico.
 
