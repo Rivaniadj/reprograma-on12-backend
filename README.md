@@ -82,6 +82,13 @@ o professor chega na escola.
 -se  o resultado for positivo ele e par
 
 8. Faça um algoritmo que descubra se um número é par ou ímpar.
+-ver qual número vai pegar
+-leia esse número.
+-faça a divisão por dois.
+-se o resto da divisão desse número por dois for zero.
+-esse número será par.
+-caso contrário será ímpar.
+-se  o resultado for positivo ele e par
 
 9. Faça um algoritmo para calcular a média aritmética entre duas notas de um aluno e mostrar sua situação, que pode ser aprovado ou reprovado.
 
