@@ -91,5 +91,12 @@ o professor chega na escola.
 -se  o resultado for positivo ele e par
 
 9. Faça um algoritmo para calcular a média aritmética entre duas notas de um aluno e mostrar sua situação, que pode ser aprovado ou reprovado.
+o aluno (A) teve a nota X na prova.
+-o aluno (A) teve a nota Y no trabalho.
+-deve-se calcular as duas notas X+Y e dividir por dois.
+-se o resultado for maior que sete.
+-o aluno foi aprovado.
+-se menor ele foi reprovado.
+-
 
 10. Faça um algoritmo para calcular o novo salário de um funcionário. Sabe-se que os funcionários que recebem atualmente salário de até R$500 terão aumento de 20%; os demais terão aumento de 10%.
