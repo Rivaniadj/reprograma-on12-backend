@@ -52,6 +52,15 @@ _Os exercícios a seguir devem ser resolvidos em linguagem natural, utilizando e
  -em seguida retire o cartão do caixa e guarde.
  - pode ir.
 5. Faça um algoritmo que mostre o passo a passo de um professor corrigindo uma pilha (de quantidade indefinida) de provas, com 5 questões cada.
+o professor chega na escola.
+-revisa os assuntos dados no semestre.
+-avisa que próxima semana será de prova.
+-aplica as provas com cinco questões cada.
+-chegar em casa coloca a pilha de prova sobre a mesa.
+- corrige cada uma atentamente.
+- depois da correção, faz uma pausa.
+- em seguida atribui as notas na caderneta.
+- 
 
 6. Faça um algoritmo que represente a brincadeira "Morto! Vivo!".
 
