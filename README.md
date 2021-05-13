@@ -73,6 +73,13 @@ o professor chega na escola.
  -quem ficar sem errar nenhum comando será o vencedor da brincadeira.
 
 7. Faça um algoritmo que some três números.
+-ver qual número vai pegar
+-leia esse número.
+-faça a divisão por dois.
+-se o resto da divisão desse número por dois for zero.
+-esse número será par.
+-caso contrário será ímpar.
+-se  o resultado for positivo ele e par
 
 8. Faça um algoritmo que descubra se um número é par ou ímpar.
 
