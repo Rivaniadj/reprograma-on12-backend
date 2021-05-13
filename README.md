@@ -42,7 +42,15 @@ _Os exercícios a seguir devem ser resolvidos em linguagem natural, utilizando e
 
 
 4. Faça um algoritmo que mostre o passo a passo de um débito num caixa eletrônico.
-
+ - se dirija ao  caixa eletrônico.
+ -retiro o cartão da bolsa
+ -introduzir o cartão no caixa eletrônico.
+ -siga as orientações para acessar a conta. 
+ -após essa ação verifique o saldo em conta. 
+ -tendo saldo suficiente pegue a fatura faça a leitura do código de barras. 
+ -efetue o pagamento e retire os comprovante. 
+ -em seguida retire o cartão do caixa e guarde.
+ - pode ir.
 5. Faça um algoritmo que mostre o passo a passo de um professor corrigindo uma pilha (de quantidade indefinida) de provas, com 5 questões cada.
 
 6. Faça um algoritmo que represente a brincadeira "Morto! Vivo!".
