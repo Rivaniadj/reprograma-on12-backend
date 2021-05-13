@@ -100,3 +100,12 @@ o aluno (A) teve a nota X na prova.
 -
 
 10. Faça um algoritmo para calcular o novo salário de um funcionário. Sabe-se que os funcionários que recebem atualmente salário de até R$500 terão aumento de 20%; os demais terão aumento de 10%.
+os funcionários de uma determinada empresa terão reajuste salarial.
+- os que recebem quinhentos reais terão aumento de vinte por cento.
+- R$500*20%= 600
+- terão um acréscimo de cem reais.
+- os demais terão reajuste de dez por cento.
+- s*10/100.
+- salário mais a porcentagem calculada.
+- será o salário mais a porcentagem calculada.
+-
